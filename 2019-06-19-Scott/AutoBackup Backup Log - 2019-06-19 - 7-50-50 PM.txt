@@ -1,0 +1,31 @@
+2019-06-19 - 7:45:49 PM - SCOTT : Desktop ("C:\Users\Scott\Desktop") : 1 Files (*.*) - OK
+2019-06-19 - 7:45:49 PM - SCOTT : Desktop Wallpaper : 1 Files
+2019-06-19 - 7:45:49 PM - SCOTT : My Documents ("C:\Users\Scott\Documents") : 1 Files (*.*)-OK
+2019-06-19 - 7:45:49 PM - SCOTT : Downloads ("C:\Users\Scott\Downloads") : 3 Files (*.*) - OK
+2019-06-19 - 7:45:49 PM - SCOTT : Windows Gadgets ("C:\Users\Scott\AppData\Local\Microsoft\Windows Sidebar\Gadgets") : 1 Files (*.*) - OK
+2019-06-19 - 7:45:49 PM - SCOTT : My Pictures ("C:\Users\Scott\Pictures") : 0 Files (*.*) - OK
+2019-06-19 - 7:45:49 PM - SCOTT : My Music ("C:\Users\Scott\Music") : 0 Files (*.*) - OK
+2019-06-19 - 7:45:49 PM - SCOTT : My Videos ("C:\Users\Scott\Videos") : 0 Files (*.*) - OK
+2019-06-19 - 7:45:49 PM - SCOTT : Internet Explorer Favorites ("C:\Users\Scott\Favorites") : 1 Files (*.*) - OK
+2019-06-19 - 7:46:26 PM - SCOTT : Google Chrome Profile ("C:\Users\Scott\AppData\Local\Google\Chrome\User Data") : 3236 Files (*.*) - OK
+2019-06-19 - 7:46:26 PM - SCOTT : Network places ("C:\Users\Scott\AppData\Roaming\Microsoft\Windows\Network Shortcuts") : 0 Files (*.*)-OK
+2019-06-19 - 7:46:26 PM - SCOTT : Windows Address Book : 0 Files
+2019-06-19 - 7:46:26 PM - USER : Desktop ("C:\Users\user\Desktop") : 4 Files (*.*) - OK
+2019-06-19 - 7:46:26 PM - USER : Desktop Wallpaper : 1 Files
+2019-06-19 - 7:46:26 PM - USER : My Documents ("C:\Users\user\Documents") : 1 Files (*.*)-OK
+2019-06-19 - 7:46:26 PM - USER : Quick launch toolbar shortcuts ("C:\Users\user\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch") : 3 Files (*.*) - OK
+2019-06-19 - 7:46:26 PM - USER : Downloads ("C:\Users\user\Downloads") : 0 Files (*.*) - OK
+2019-06-19 - 7:46:26 PM - USER : Windows Gadgets ("C:\Users\user\AppData\Local\Microsoft\Windows Sidebar\Gadgets") : 1 Files (*.*) - OK
+2019-06-19 - 7:46:26 PM - USER : My Pictures ("C:\Users\user\Pictures") : 0 Files (*.*) - OK
+2019-06-19 - 7:46:26 PM - USER : My Music ("C:\Users\user\Music") : 0 Files (*.*) - OK
+2019-06-19 - 7:46:26 PM - USER : My Videos ("C:\Users\user\Videos") : 0 Files (*.*) - OK
+2019-06-19 - 7:46:26 PM - USER : Internet Explorer Favorites ("C:\Users\user\Favorites") : 1 Files (*.*) - OK
+2019-06-19 - 7:46:26 PM - USER : Network places ("C:\Users\user\AppData\Roaming\Microsoft\Windows\Network Shortcuts") : 0 Files (*.*)-OK
+2019-06-19 - 7:46:26 PM - USER : Windows Address Book : 0 Files
+2019-06-19 - 7:46:28 PM - COMMON : Fonts : 10 Files
+2019-06-19 - 7:46:28 PM - COMMON : Shared Documents ("C:\Users\Public\Documents") : 0 Files (*.*) - OK
+2019-06-19 - 7:46:28 PM - COMMON : Common desktop ("C:\Users\Public\Desktop") : 0 Files (*.*) - OK
+2019-06-19 - 7:46:28 PM - COMMON : Common pictures ("C:\Users\Public\Pictures") : 0 Files (*.*) - OK
+2019-06-19 - 7:46:28 PM - COMMON : Common music ("C:\Users\Public\Music") : 0 Files (*.*) - OK
+2019-06-19 - 7:46:28 PM - COMMON : Common videos ("C:\Users\Public\Videos") : 0 Files (*.*) - OK
+[ERROR] 2019-06-19 - 7:50:50 PM : Process cancelled by user
